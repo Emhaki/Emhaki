@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 💻
-HTML
+HTML, CSS, JavaScript, Node.js, TypeScript
 
 <!---
 Emhaki/Emhaki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
